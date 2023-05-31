@@ -1,2 +1,5 @@
 # toy_ds_project
-DSCI 100 R 
+Project Creation Date: May 31st 2023
+Author: Michael Huang
+
+
